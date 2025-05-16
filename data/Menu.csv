@@ -1,3 +1,4 @@
-Name,price
-Pizza,80
-Burger,100
+Name,price,category,available
+Pizza,80,fast food,yes
+Burger,100,fast food,no
+Fries,45,starter,yes
