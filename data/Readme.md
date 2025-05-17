@@ -70,5 +70,13 @@ Example
     "name": "syed zakeer Hussain",
     "isStudent": false,
     "pay": 15000,
-    "bonus":null
+    "bonus":null,
+    "skills": ["HTML","csv","javascript"],
+    "extra": ["zakeer",5000,null,false],
+    "address": [
+        {"type": "home","location": "Mehdipatnam Hyderabad","pincode":50028},
+        {"type": "office","location":"Madhura nagar Hyderabad","pincode":500018},
+        
+    ]
 }
+```
