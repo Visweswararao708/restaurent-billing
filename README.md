@@ -41,7 +41,7 @@
       -Fries     x2 (item)
 
 
-      - Add git learning file
+      - Add git learning file 
 
 
       user,item,quantity,total,datetime
