@@ -41,7 +41,8 @@
       -Fries     x2 (item)
 
 
-      - Add git learning file 
+     - Add git learning file
+    https://github.com/zakeer/git/-basics
 
 
       user,item,quantity,total,datetime
