@@ -5,4 +5,4 @@
 
 
 Learning souce
-https://github.com/Visweswararao708/restaurent-billing
+https://github.com/Visweswararao708/restaurent-basics
